@@ -2,6 +2,7 @@
  Autor: Landry Duailibe
 
  LIVE #075 - SQL Server 2025 CTP
+ Teste
 **********************************************/
 use master
 go
